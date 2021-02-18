@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613492012 source:c:\users\lenovo\onedrive\desktop\c c++ projects\mini banking with one account only\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
